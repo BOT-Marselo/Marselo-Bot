@@ -1,5 +1,5 @@
 { 
-    "name": "senna-bot",
+    "name": "Rosita-bot",
     "version": "3.0.0",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -23,12 +23,12 @@
         "dylux-bot",
         "senna",
         "multi-device",
-        "senna-bot",
+        "Rosita-bot",
         "baileys-md"
     ],
-    "homepage": "https://github.com/FG98F/senna-bot",
+    "homepage": "",
     "author": {
-        "name": "FG98"
+        "name": "Marselo-Bot"
     },
     "repository": {
         "type": "git",
